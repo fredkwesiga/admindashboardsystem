@@ -44,6 +44,7 @@ const New = ({title}) => {
                 <label htmlFor="email">Address </label>
                 <input type="password" placeholder="Muyega" />
               </div>
+              <button>Send</button>
             </form>
           </div>
         </div>
